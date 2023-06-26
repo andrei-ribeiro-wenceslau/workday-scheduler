@@ -13,7 +13,7 @@ N/A
 
 ## Solution URL
 
-[Coding Quizz Challenge](https://andrei-ribeiro-wenceslau.github.io/coding-quiz-challenge/)
+[Workday Scheduler](https://andrei-ribeiro-wenceslau.github.io/workday-scheduler/)
 
 ## Credits
 
